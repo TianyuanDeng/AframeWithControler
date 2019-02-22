@@ -1,4 +1,7 @@
 # MIZZOU VR VIDEO
+
+Add Play/Pause and Preload.
+
 - Video Test
 	> [Test Demo](http://ec2-18-191-203-97.us-east-2.compute.amazonaws.com/lectures/Aframe/index.html)
 
